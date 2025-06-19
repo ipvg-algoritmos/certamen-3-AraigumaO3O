@@ -20,8 +20,6 @@ sup = input("¿Eres supervisor? (s/n) ").lower()
 autoriza = input("¿Tienes autorización? (s/n) ").lower()
 
 es_mayor_edad = (edad >= 18)
-if edad = >= 18:
-
 cumple_condiciones = (sup or autoriza)
 acceso_permitido = (cumple_condiciones and edad)
 
